@@ -1,0 +1,6 @@
+Here with the help of JSON Data
+
+I have created three files to get an expected Data
+1. Year.js - Here we can give any year as input and execute the code to get the list of Noble Prize winners in a particular year
+2. Name.js - Here by giving First name as input we can get the list when and in which category that person got Noble Prize
+3. Category.js - Here by giving particular category as input we can get the list of Noble Prize winners in such Category.
